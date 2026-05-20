@@ -1,4 +1,4 @@
-📘 GitHub Repository RAG Assistant
+#📘 GitHub Repository RAG Assistant
 
 AI-powered semantic search and Q&A over any GitHub repository using Retrieval-Augmented Generation (RAG).
 
